@@ -3,7 +3,6 @@
 
 # In[17]:
 
-import time
 import requests
 from BeautifulSoup import BeautifulSoup
 import numpy as np
